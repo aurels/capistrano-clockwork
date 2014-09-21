@@ -1,10 +1,10 @@
-> WARNING : AT THE MOMENT THIS GEM IS UNDER DEVELOPEMENT.
-> DO NOT USE AT ALL UNLESS YOU ARE CONTRIBUTING.
-
 # Capistrano::Clockwork
 
 [Clockwork](https://github.com/tomykaira/clockwork) integration
-for [Capistrano](https://github.com/capistrano/capistrano)
+for [Capistrano 3](https://github.com/capistrano/capistrano).
+
+> WARNING : AT THE MOMENT THIS GEM IS UNDER DEVELOPEMENT.
+> DO NOT USE AT ALL UNLESS YOU ARE CONTRIBUTING.
 
 ## Installation
 
